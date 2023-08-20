@@ -15,7 +15,9 @@ git remote add origin https://github.com/<GITHUB_USERNAME>/<REPO_NAME>.git
 git push -u origin main
 ```
 
-## Tutorial Requirements:
+***
+
+## Repo Resources
 
 * [GitHub](https://github.com/)
 
